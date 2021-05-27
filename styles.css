@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: lightgreen
+}
+
+button {
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+#bingo-board {
+    background-color: grey;
+}
