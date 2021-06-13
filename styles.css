@@ -6,12 +6,36 @@ h1 {
     color: lightgreen
 }
 
-button {
-    color: white;
-    height: 50px;
-    width: 100px;
+.bingoboardcell {
+    background-color: lightpink;
+    color: black;
+    width: 23px;
+    height: 23px;
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+    border: 1px solid blue;
+    display: inline-block;
 }
 
-#bingo-board {
-    background-color: grey;
+
+button {
+    color: black;
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    display: block;
+    margin: 8px 18px;
+}
+
+.randombingocell {
+    color: blue;
+    background: rgb(238, 237, 237);
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    margin: 8px 18px;
+    line-height: 50px;
 }
