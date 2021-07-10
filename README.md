@@ -1,5 +1,5 @@
 # Strive-Homework-M1D9
- <!--
+
         BINGO CHALLENGE!!!
         Create programmatically (with JS) a BINGO board with 76 cells, from 1 to 76.
         Create a button to randomize a number from 1 to 76. The same number should be highlighted on the bingo board
@@ -15,4 +15,4 @@
         - Let the user choose HOW MANY user boards he's willing to play with and create them.
     
     
-    -->
+  

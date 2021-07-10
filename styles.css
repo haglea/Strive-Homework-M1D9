@@ -37,11 +37,11 @@ h1 {
 
 .randombingocell {
   color: rgb(50, 50, 250);
-  background: rgb(225, 235, 226);
+  background: rgb(160, 236, 167);
   height: 40px;
   width: 10%; 
   font-size: 1.4rem;
-  border: 1px solid rgb(60, 172, 65);
+  border: 1px solid rgb(37, 170, 44);
   text-align: center;
   display: flex;
   justify-content: center;
@@ -93,6 +93,19 @@ input {
   width: 3rem;
 }
 
-button:hover {
-  transition: 2s;
+h1:hover {
+  color: rgb(67, 141, 67);
+  /* background-color:rgb(255, 251, 247);  */
+}
+
+.randombingocell:hover {
+  opacity: 80%;
+} 
+
+.bingoboardcell:hover {
+  opacity: 80%;
+}
+
+.bingoboardcell24:hover {
+  opacity: 80%;
 }
